@@ -1,5 +1,5 @@
 # React + Vite
-<img src="screencapture-real-estate-ekcp-vercel-app-2025-07-03-17_20_22" alt="Screenshot" width="600"/>
+<img src="screencapture-real-estate-ekcp-vercel-app-2025-07-03-17_20_22.png" alt="Screenshot" width="600"/>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
